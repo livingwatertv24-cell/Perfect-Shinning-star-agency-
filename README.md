@@ -1,2 +1,117 @@
 # Perfect-Shinning-star-agency-
 Application form
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Perfect Shinning Star Employment Agency</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#e8f5e9;
+}
+
+header{
+    background:linear-gradient(90deg,#2e7d32,#66bb6a);
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+.logo{
+    font-size:70px;
+}
+
+header h1{
+    margin-top:10px;
+    font-size:35px;
+}
+
+header p{
+    margin-top:8px;
+    font-size:18px;
+}
+
+nav{
+    background:#43a047;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+.container{
+    width:90%;
+    max-width:900px;
+    margin:30px auto;
+}
+
+form{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+input,select,textarea{
+    width:100%;
+    padding:12px;
+    margin:10px 0;
+    border:2px solid #66bb6a;
+    border-radius:8px;
+}
+
+button{
+    background:#2e7d32;
+    color:white;
+    padding:15px;
+    width:100%;
+    border:none;
+    border-radius:8px;
+    font-size:18px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#1b5e20;
+}
+
+footer{
+    background:#2e7d32;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="logo">⭐</div>
+<h1>Perfect Shinning Star Employment Agency</h1>
+<p>Your Trusted Employment & Visa Processing Partner</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Services</a>
+<a href="#">Jobs</a>
+<a href="#">Visa Application</a>
+<a href="#">Contact</a>
+</nav>
